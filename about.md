@@ -12,5 +12,5 @@ public: true
 
 
 
-> *这里是次主题的出处，再次感谢作者！
+> *此主题的出处，感谢作者！
 > 作者：[laobubu](http://laobubu.net)  主题：[EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)*
