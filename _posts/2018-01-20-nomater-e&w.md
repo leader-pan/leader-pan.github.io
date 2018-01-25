@@ -2,7 +2,7 @@
 layout: post
 title:  "无问西东"
 date:   2018-01-20 21:00
-categories: life
+categories: Life
 permalink: /archivers/movie
 ---
 
