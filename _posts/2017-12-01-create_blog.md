@@ -2,7 +2,7 @@
 layout: post
 title:  "博客创建"
 date:   2017-12-01 21:00
-categories: Technology
+categories: jekyll
 permalink: /archivers/create
 ---
 终于，折腾了大半年，我的博客成功显示在我的GitHub主页上。
